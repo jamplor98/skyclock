@@ -1,0 +1,171 @@
+	.navbar{
+			/*background-color: #000 !important;*/
+		    height: 64px;
+		    position: sticky;
+  			top: 0;
+	}
+	.logo{
+		position: absolute;
+		height:150px;
+		margin-left: 100px;
+	}
+	
+	.mainmenu{
+
+		float:right;
+		margin-right: 100px;
+		margin-top: 40px;
+	}
+	.menu{
+			font-family: Montserrat;
+			float:left;
+			font-size: 12px;
+		
+  		   text-decoration: none;
+    
+			color: #0D5665;
+			padding: 10px;
+			margin-right: 30px;
+	}
+	.menu:hover{
+			color: #000
+	}
+ 
+	.Homepage{
+			/*background-color: #000 !important;*/
+	/*	position: absolute;*/
+		height: 100%;
+		width: 1340px;
+
+	}
+	.item1{
+		margin-left: -50px;
+		margin-top: 240px;
+	}
+	.item2{
+		margin-top: 300px;
+		margin-right: 200px;
+		margin-left: 200px;
+	}
+	.item3{
+		margin-top: 250px;
+		margin-bottom: 200px; 
+	}
+
+	.list{	
+
+		text-align: center;		
+		list-style-type: none;
+	}
+	.tag{
+		display:inline-block;
+		padding: 10px 20px 20px;
+	}
+	.text{
+			bottom: 100px;
+		font-family: Montserrat;
+		font-size: 50px;
+}
+	.newtext{
+		bottom: 500px !important;
+		font-family: Montserrat;
+		font-size: 50px;
+		line-height: 1.5em; 
+		overflow: hidden !important;
+	}
+	.textmanage{
+					float: left;
+					margin-top: 20px;
+	}
+	.textclock{
+		float: right;
+		margin-top: 50px;
+		margin-right: 220px !important; 
+		margin-left: -220px;
+	}
+	.textoverview{
+		float: right;
+		margin-top: 50px;
+		font-size: 45px !important;
+		margin-right: 180px !important; 
+		margin-left: -150px;
+	}
+	.desc{
+		float: left !important;
+		margin-left: 20px;
+		font-size: 20px;
+		font-family: Montserrat;
+
+	}
+	.descright{
+		float: right !important;
+		margin-right : 200px;
+		margin-top: -130px;
+		font-size: 20px;
+		font-family: Montserrat;
+
+	}
+	.descrightbottom{
+		float: right !important;
+		font-size: 20px;
+		margin-right : 210px;
+		font-family: Montserrat;
+	margin-top: -100px;
+
+	}
+	.phone{
+		height: 238px;
+		width:168px;
+	}
+	.manager{
+		height: 200px;
+		width: 200px;
+	}
+	.button{
+		background-color: 	#DCA43A;
+		margin-right: 225px;
+		float: right;
+		margin-top: -100px;
+		list-style-type: none;
+		padding: 15px 50px;
+		text-decoration: none;
+		 border: none;
+		border-radius: 20px;
+		color: white;
+	  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	}
+	.button:hover {
+		  background-color: #D08902; /* Green */
+		  color: white;
+	}
+		.button1{
+		background-color: #DCA43A;
+		margin-left: 10px;
+		margin-top: -60px;
+		float: left;
+		list-style-type: none;
+		padding: 15px 50px;
+		text-decoration: none;
+		 border: none;
+		border-radius: 20px;
+		color: white;
+
+	  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	}
+	.buttonsad{
+		margin-top: -60px !important;
+	}
+	.button1:hover {
+		  background-color: #D08902; /* Green */
+		  color: white;
+		}
+		.table{
+
+			height: 200px;
+			width: 200px;
+		}
+			.group{
+
+			height: 200px;
+			width: 350px;
+		}
